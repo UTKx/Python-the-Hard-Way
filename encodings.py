@@ -1,3 +1,4 @@
+# TODO: utf-8. utf-16, big5                     DEBES -> Decode Bytes, Encode Strings
 import sys
 script, input_encoding, error = sys.argv
 
